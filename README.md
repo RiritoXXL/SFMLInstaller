@@ -1,0 +1,2 @@
+# SFMLInstaller
+SFMLInstaller by RiritoXXL
